@@ -2,6 +2,10 @@
 
 Syntax grammar support for [OPUS](https://sites.google.com/a/eng.src.ku.ac.th/vacharapat/cpe-project/opus) project.
 
+![Project](http://spywhere.github.io/images/opus/project.png)
+
+![Chapter1](http://spywhere.github.io/images/opus/chapter1.png)
+
 ### Installation for Sublime Text
 #### Package Control (highly recommended)
 Open command palette and type `Install Package` then type `OPUS` and hit `Enter` or `Return`. Package Control will automatically download, install and update for you.
